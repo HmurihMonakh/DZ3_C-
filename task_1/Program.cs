@@ -4,14 +4,16 @@
 Console.Write("Введите пятизначное число: ");
 
 string? number = Console.ReadLine();
-//string number = Console.ReadLine();
-
-if (number[0] == number[4] || number[4] == number[0])
+void EnteringNumbers(string number)
 {
-    Console.WriteLine("Число палиндром: {number} ");
+    if (number[0] == number[4] || number[4] == number[0])
+    {
+        Console.WriteLine($"Число палиндром: {number} ");
+    }
+ 
+    else Console.WriteLine($"Число не палиндром: {number}");
+
 }
 
-else Console.WriteLine($"Число не палиндром: {number}");
-
 if (number!.Length == 5)
-Console.WriteLine(number);
+EnteringNumbers(number);
