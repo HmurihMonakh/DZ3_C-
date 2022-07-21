@@ -1,0 +1,15 @@
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\bin\Debug\net6.0\task_1.exe
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\bin\Debug\net6.0\task_1.deps.json
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\bin\Debug\net6.0\task_1.runtimeconfig.json
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\bin\Debug\net6.0\task_1.dll
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\bin\Debug\net6.0\task_1.pdb
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\obj\Debug\net6.0\task_1.csproj.AssemblyReference.cache
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\obj\Debug\net6.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\obj\Debug\net6.0\task_1.AssemblyInfoInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\obj\Debug\net6.0\task_1.AssemblyInfo.cs
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\obj\Debug\net6.0\task_1.csproj.CoreCompileInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\obj\Debug\net6.0\task_1.dll
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\obj\Debug\net6.0\refint\task_1.dll
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\obj\Debug\net6.0\task_1.pdb
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\obj\Debug\net6.0\task_1.genruntimeconfig.cache
+C:\Users\MAKS\Desktop\учебаGB\DZ3_C#\task_1\obj\Debug\net6.0\ref\task_1.dll
