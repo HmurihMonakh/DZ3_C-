@@ -11,7 +11,7 @@ int z2 = Location ("z", "b");
 int Location(string position, string placement)
 {
     Console.Write($"Введите координаты {position} точка {placement}: ");
-    return Convert.ToInt32(Console.ReadLine()); //Convert.ToInt16 заменил на 32 можноввести больше значений
+    return Convert.ToInt32(Console.ReadLine()); 
 }
 
 double Equation(double x1, double x2, double y1, double y2, double z1, double z2)

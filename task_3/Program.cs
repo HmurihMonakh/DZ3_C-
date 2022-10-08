@@ -40,4 +40,4 @@ int[] array=new int[number + 1];
 Number(array);
 PrintArray(array);
 // 3 Семинар))
-
+// попробывал обернуть в функцию
